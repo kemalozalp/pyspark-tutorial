@@ -26,7 +26,7 @@ More advanced applications of PySpark is underway. So, sit tight!
 
 I recommend creating a conda environment using the eny.yaml file. To do that:
 1. Install anaconda on your device if you haven't have it already. To do that, follow the [link](https://www.anaconda.com/download){:target='_blank'}
-2. Open a terminal window if you're using Mac OS or Linux, or a command window if you're using Windows and navigate to your working directory where you have the env.yaml file\
-3.```conda env create --prefix /<enter>/<your>/<path-to-env> -f env.yaml```
+2. Open a terminal window if you're using Mac OS or Linux, or a command window if you're using Windows and navigate to your working directory where you have the env.yaml file
+3. ```conda env create --prefix /<enter>/<your>/<path-to-env> -f env.yaml```
 4. ```conda activate pyspark```
 5. You should be able to run the command in the 'tutorial.ipynb' without any problem now.
